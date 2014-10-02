@@ -2,7 +2,7 @@
 
 Attached is a list of camera values taken from a database. Users were initially allowed to enter any value, but to make filtering easier for searches we want to only allow a predefined set.
 
-The first step is to sanitize the existing data by merging near duplicates into single values. Here is a sample:
+The first step is to sanitize the existing data (in the included camera_list.txt) by merging near duplicates into single values. Here is a sample:
 
     Canon 5D mark II
     Canon 5d MKII
