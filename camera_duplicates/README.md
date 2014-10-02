@@ -17,7 +17,7 @@ There are three variations on the Canon 5D MK II. Note that the last entry, "Can
         'Canon 5dMKII': 'Canon 5D Mark II'
     }
 
-An explanation of your thought process either as a separate file or in detailed comments in code would be appreciated.
+An explanation of your thought process either as a separate file or in detailed comments in code would be appreciated. You're not required to spend more than an hour on this, incompleted tasks will be considered too.
 
 When you are done, tar or zip your script and all related materials and email it to alec@nimia.com. 
 
