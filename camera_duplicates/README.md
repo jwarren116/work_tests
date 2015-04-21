@@ -19,6 +19,6 @@ There are three variations on the Canon 5D MK II. Note that the last entry, "Can
 
 Python preferred but not required, as long as we can run your code. An explanation of your thought process either as a separate file or in detailed comments in code would be appreciated. You're not required to spend more than an hour on this, incompleted tasks will be considered too.
 
-When you are done, tar or zip your script and all related materials and email it to alec@nimia.com. 
+When you are done, you can upload to a github repo (but DON'T fork this one because other applicants will view your work), or if you don't have a github account you may tar or zip your script and all related materials. Email your link or attachments to alec@nimia.com. 
 
 Bonus points: Some values are not camera models, such as "Quicktime Pro Res" and should be removed entirely. 
