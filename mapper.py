@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import io
-import difflib
+from difflib import get_close_matches
 
 
 camera_map = {}
@@ -19,7 +19,7 @@ cameras = list(set(cameras))
 # assign closest match to camera in known_cameras list to value in camera_map
 # if a match is not found, map value to None
 for camera in cameras:
-    camera_result = difflib.get_close_matches(camera, known_cameras, n=1, cutoff=0.4)
+    camera_result = get_close_matches(camera, known_cameras, n=1, cutoff=0.4)
     try:
         camera_map[camera] = camera_result[0]
     except IndexError:
