@@ -10,6 +10,7 @@ Canon 350D
 Canon 40D
 Canon 500D
 Canon 550D
+Canon 5D
 Canon 5D Mark II
 Canon 5D Mark III
 Canon 600D
@@ -21,6 +22,7 @@ Canon 70D
 Canon 7D
 Canon C100
 Canon Rebel T2
+Canon Rebel T2i
 Canon Rebel T3i
 Canon Rebel T4i
 Canon XF100
@@ -32,6 +34,8 @@ GoPro
 GoPro Hero 2
 GoPro Hero 3
 iPhone
+Krasnogorsk-3
+Mitchell BNC
 Nikon 7100
 Nikon D200
 Nikon D2x
@@ -69,11 +73,15 @@ Sony Alpha 7s
 Sony Alpha 99
 Sony CX155E
 Sony CX730
+Sony DSC R1
+Sony DSC RX100
 Sony EX1
+Sony F23
 Sony F35
 Sony F65
 Sony F950
 Sony FS700
+Sony FS700R
 Sony HVR Z1E
 Sony HXR MC1
 Sony HXR NX70
