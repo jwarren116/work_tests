@@ -23,6 +23,6 @@ for camera in cameras:
     try:
         camera_map[camera] = camera_result[0]
     except IndexError:
-        camera_map[camera] = None
+        pass
 
 print camera_map
