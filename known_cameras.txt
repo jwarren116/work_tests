@@ -3,8 +3,10 @@
 Blackberry Bold
 Blackmagic Cinema
 Blackmagic Production
+Bolex
 Canon 1000D
 Canon 100D
+Canon 1D
 Canon 1D Mark IV
 Canon 350D
 Canon 40D
@@ -43,6 +45,7 @@ Nikon D3s
 Nikon D5000
 Nikon D5100
 Nikon D600
+Nikon D610
 Nikon D700
 Nikon D7000
 Nikon D7100
@@ -50,9 +53,10 @@ Nikon D800
 Panasonic AF100
 Panasonic AG3DA1
 Panasonic AGHMC40
+Panasonic HVX
 Panasonic Lumix GH4
 Pentax K7
-Phantom
+Phantom Miro
 Phantom Flex 4K
 Phantom HD
 RED
@@ -76,10 +80,12 @@ Sony CX730
 Sony DSC R1
 Sony DSC RX100
 Sony EX1
+Sony EX3
 Sony F23
 Sony F35
 Sony F65
 Sony F950
+Sony FS100
 Sony FS700
 Sony FS700R
 Sony HVR Z1E
