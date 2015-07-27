@@ -16,9 +16,11 @@ known_cameras = [camera.strip() for camera in known_cameras]
 # converting to set and back to list removes duplicate values
 cameras = list(set(cameras))
 
-# assign closest match to camera in known_cameras list to value in camera_map
-# if a match is not found, map value to None
+# assign closest camera match in known_cameras list to value in camera_map
+# if a match is not found, assume not a valid camera
 for camera in cameras:
+    # n is number of results returned
+    # cutoff is a float 0 (no similarity) to 1 (exact match)
     camera_result = get_close_matches(camera, known_cameras, n=1, cutoff=0.4)
     try:
         camera_map[camera] = camera_result[0]
